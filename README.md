@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Joy%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Joy%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=ffffff)
 
 <!--<img width="100%" height="200px" align="center" src="https://user-images.githubusercontent.com/90189513/191739413-373594c4-d935-422a-939a-27f94f39d384.gif"/>-->
 
