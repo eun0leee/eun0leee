@@ -4,7 +4,8 @@
 
 <div align="center">
     
-### 💻Frontend Developer💻
+## 💻Frontend Developer💻
+Hi there!
     
 
 ## 📝Logbook📝
