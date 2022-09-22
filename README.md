@@ -3,8 +3,7 @@
 <div align="center"> 
   <h3 align="center"> 📝Logbook📝 </h3>
   <h4 align="center">
-     <a href="https://velog.io/@eun0leee"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
-     매일 쓰는 TIL
+     <a href="https://velog.io/@eun0leee"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />매일 쓰는 TIL</a>
   </h4>
   <h4 align="center">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
