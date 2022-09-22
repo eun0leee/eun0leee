@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Joy Github!&fontSize=65&fontColor=2E2E2E&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Joy%20Github!&fontSize=65&fontColor=2E2E2E&animation=twinkling)
 
 <img width="100%" height="300px" align="center" src="https://user-images.githubusercontent.com/90189513/191739413-373594c4-d935-422a-939a-27f94f39d384.gif"/>
 
