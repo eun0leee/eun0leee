@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Joy%20Github!&type=waving&width=100&height=300&color=gradient)
-<iframe src="https://giphy.com/embed/3oz8xur099boo4N9aU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cinemagraph-cinemagraphs-3oz8xur099boo4N9aU">via GIPHY</a></p>
+
+![sunset](https://user-images.githubusercontent.com/90189513/191739413-373594c4-d935-422a-939a-27f94f39d384.gif)
 
 <div align="center">
     
