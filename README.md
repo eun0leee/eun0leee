@@ -11,6 +11,9 @@
 <a href="https://velog.io/@eun0leee"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /> 개발 관련 글</a><br>
 <a href="https://blog.naver.com/eun0leee"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" /> 일상글</a><br>
 
+### 🛠️ Tech Stacks 🛠️
+<img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>  
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img alt="Npm" src ="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun0leee&layout=compact)](https://github.com/eun0leee/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feun0leee%2Fhit-counter&count_bg=%23DC86D8&title_bg=%238F279E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
