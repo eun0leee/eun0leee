@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Joy%20Github!&type=waving&width=100&height=300&color=gradient)
-
-<img width="100%" src="https://user-images.githubusercontent.com/90189513/191739413-373594c4-d935-422a-939a-27f94f39d384.gif"/>
+<img width="100%" height="100px" src="https://user-images.githubusercontent.com/90189513/191739413-373594c4-d935-422a-939a-27f94f39d384.gif"/>
 
 <div align="center">
     
