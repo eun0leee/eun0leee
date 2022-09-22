@@ -4,15 +4,15 @@
   <h2 align="center"> 📝Logbook📝 </h2>
   <h4 align="center">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 
-    [매일 쓰는 TIL](https://velog.io/@eun0leee)
+    ![매일 쓰는 TIL](https://velog.io/@eun0leee)
   </h4>
   <h4 align="center">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
-    [개발 관련 글](https://velog.io/@eun0leee)
+    ![개발 관련 글](https://velog.io/@eun0leee)
   </h4>
   <h4 align="center">
    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" /> 
-    [일상글](https://blog.naver.com/eun0leee)
+    ![일상글](https://blog.naver.com/eun0leee)
   </h4>
 </div>
 
