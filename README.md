@@ -6,15 +6,10 @@
     
 
 ### 📝Logbook📝
-    <h4 align="center">
-       <a href="https://velog.io/@eun0leee"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 매일 쓰는 TIL</a>
-    </h4>
-    <h4 align="center">
-      <a href="https://velog.io/@eun0leee"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /> 개발 관련 글</a>
-    </h4>
-    <h4 align="center">
-     <a href="https://blog.naver.com/eun0leee"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" /> 일상글</a>
-    </h4>
+    
+<a href="https://velog.io/@eun0leee"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 매일 쓰는 TIL</a>
+<a href="https://velog.io/@eun0leee"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /> 개발 관련 글</a>
+<a href="https://blog.naver.com/eun0leee"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" /> 일상글</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun0leee&layout=compact)](https://github.com/eun0leee/github-readme-stats)
 
