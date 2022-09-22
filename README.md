@@ -1,10 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?text=Joy%20Github!&type=waving&height=300&color=gradient)
 
 <div align="center"> 
-📝Logbook📝
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />TIL
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />개발글
-<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" />일상글
+  <h2 align="center"> 📝Logbook📝 </h2>
+  <h4 align="center">
+    <img src="https://img.shields.io/badge/Notion-000000style=flat&logo=notion&logoColor=white" /> 매일 쓰는 TIL
+  </h4>
+  <h4 align="center">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /> 개발 관련 글
+  </h4>
+  <h4 align="center">
+  <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" /> 일상글
+  </h4>
 </div>
 
 <div align="center">
