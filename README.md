@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?text=Joy%20Github!&type=waving&height=200&color=gradient)
 
+<div align="center"> 
 📝Logbook📝
 TIL
 개발글
 일상글
+</div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
