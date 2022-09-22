@@ -14,3 +14,5 @@ TIL
 </div>
 
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=TypeScript&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
