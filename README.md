@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradation&height=200&descAlign=50&fontAlign=50&section=header&text=Joy%20Github!&fontSize=65&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Joy%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 
 <!--<img width="100%" height="200px" align="center" src="https://user-images.githubusercontent.com/90189513/191739413-373594c4-d935-422a-939a-27f94f39d384.gif"/>-->
 
