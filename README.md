@@ -13,4 +13,4 @@ TIL
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-https://simpleicons.org/icons/velog.svg
+ <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=TypeScript&logoColor=white"/>
