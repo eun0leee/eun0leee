@@ -4,11 +4,10 @@
   <h3 align="center"> 📝Logbook📝 </h3>
   <h4 align="center">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 
-    [매일 쓰는 TIL][https://velog.io/@eun0leee]
+    [매일 쓰는 TIL](https://velog.io/@eun0leee)
   </h4>
   <h4 align="center">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
-    [주소에 대한 설명](http://www.google.co.kr)
     [개발 관련 글](https://velog.io/@eun0leee)
   </h4>
   <h4 align="center">
