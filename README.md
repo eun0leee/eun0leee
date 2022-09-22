@@ -3,8 +3,9 @@
 <div align="center"> 
   <h3 align="center"> 📝Logbook📝 </h3>
   <h4 align="center">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 
+    <img src="" /> 
     [매일 쓰는 TIL](https://velog.io/@eun0leee)
+    ![LYNMP 로고]([https://i.esdrop.com/d/dLd7n17hg9.png](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white))](https:lynmp.com)
   </h4>
   <h4 align="center">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
