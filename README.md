@@ -2,9 +2,9 @@
 
 <div align="center"> 
 📝Logbook📝
-TIL
-개발글
-일상글
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />TIL
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />개발글
+<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" />일상글
 </div>
 
 <div align="center">
@@ -14,6 +14,4 @@ TIL
 </div>
 
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
-<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" />
+
