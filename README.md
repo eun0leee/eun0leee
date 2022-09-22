@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Joy%20Github!&type=waving&height=500&color=gradient)
+![header](https://capsule-render.vercel.app/api?text=Joy%20Github!&type=waving&height=300&color=gradient)
 
 <div align="center"> 
 📝Logbook📝
