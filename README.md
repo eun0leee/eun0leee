@@ -2,7 +2,7 @@
 
 <h3 align="center"> 💻Frontend Developer💻</h3>
     
-
+<div align="center">
     <h3 align="center"> 📝Logbook📝 </h3>
     <h4 align="center">
        <a href="https://velog.io/@eun0leee"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 매일 쓰는 TIL</a>
@@ -13,7 +13,7 @@
     <h4 align="center">
      <a href="https://blog.naver.com/eun0leee"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" /> 일상글</a>
     </h4>
-
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun0leee&layout=compact)](https://github.com/eun0leee/github-readme-stats)
 
