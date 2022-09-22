@@ -5,12 +5,16 @@
   <h4 align="center">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 매일 쓰는 TIL
   </h4>
-  <h4 align="center">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /> 개발 관련 글
-  </h4>
-  <h4 align="center">
-  <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" /> 일상글
-  </h4>
+  <a href="https://velog.io/@eun0leee">
+    <h4 align="center">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /> 개발 관련 글
+    </h4>
+  </a>
+  <a href="https://blog.naver.com/eun0leee">
+    <h4 align="center">
+    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" /> 일상글
+    </h4>
+  </a>
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feun0leee%2Fhit-counter&count_bg=%23DC86D8&title_bg=%238F279E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
