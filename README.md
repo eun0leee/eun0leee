@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Joy%20Github!&type=waving&width=100&height=300&color=gradient)
 
 <div align="center"> 
-  <h2 align="center"> 📝Logbook📝 </h2>
+  <h3 align="center"> 📝Logbook📝 </h3>
   <h4 align="center">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 
     [매일 쓰는 TIL](https://velog.io/@eun0leee)
