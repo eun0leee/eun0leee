@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Joy%20Github!&type=waving&width=100&height=300&color=gradient)
 
+<h3 align="center"> 💻Frontend Developer💻</h3>
+    
 <div align="center"> 
     <h3 align="center"> 📝Logbook📝 </h3>
     <h4 align="center">
