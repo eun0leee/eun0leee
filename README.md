@@ -22,7 +22,8 @@ Hi there!
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun0leee&layout=compact)](https://github.com/eun0leee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun0leee&langs_count=10&layout=compact&theme=dark)](https://github.com/eun0leee/github-readme-stats)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feun0leee%2Fhit-counter&count_bg=%23DC86D8&title_bg=%238F279E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
