@@ -1,3 +1,8 @@
+<a href="https://velog.io/@eun0leee">
+    <img 
+        src="http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@eun0leee"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ## Frontend developer
 
@@ -7,12 +12,6 @@
 * 서비스에 대한 깊은 이해도를 바탕으로, 사용자 경험을 개선하는 것을 목표로 합니다.  
 * 협업 중 불가능한 상황이 닥쳤을 때 대안을 제시하여 최대한 해결하려고 합니다.  
 * 늘 겸손한 자세로 팀원들과 적극적으로 커뮤니케이션하며, 건강하게 함께 성장하는 것에서 성취감을 느낍니다.  
-
-<a href="https://velog.io/@eun0leee">
-    <img 
-        src="http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@eun0leee"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 ## Stack
 
