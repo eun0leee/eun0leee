@@ -18,3 +18,5 @@
 
 <img alt="eslint" src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=black"> <img alt="Husky" src="https://img.shields.io/badge/Husky-46B980?style=for-the-badge&logo=Husky&logoColor=black"> <img alt="Lint-Staged" src="https://img.shields.io/badge/Lint Staged-2E86FF?style=for-the-badge&logo=Lint-Staged&logoColor=black">
 
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+
